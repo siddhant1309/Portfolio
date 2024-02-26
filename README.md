@@ -1,14 +1,6 @@
 ![thumbnail](https://github.com/siddhant1309/Portfolio/blob/430462d7ef396e56bb87fabdbe4b9ca14c2a2ff5/public/images/Screenshot%202024-02-26%20215103.png)
 
-### Live - [https://react-portfolio-template.netlify.app/](https://siddhantpathakpportfolio.netlify.app/)
-
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-
-### Tutorials
-
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
-
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
+### Live - (https://siddhantpathakpportfolio.netlify.app/)
 
 ### Features - 
 
@@ -16,7 +8,6 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Minimal Design
 - Easy To Browse
 - Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
 - Dark Mode
 
 
@@ -24,10 +15,8 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 
 - Header
 - Work
-- Services
 - About
 - Contact
-- Markdown Blog
 
 
 ### How To Use
@@ -61,16 +50,6 @@ I would be very happy to review your PRs and all the awesome things that you can
 
 
 ### Thanks
-
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
 
 
 
