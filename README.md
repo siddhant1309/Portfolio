@@ -1,4 +1,4 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+![thumbnail](https://github.com/siddhant1309/Portfolio/blob/430462d7ef396e56bb87fabdbe4b9ca14c2a2ff5/public/images/Screenshot%202024-02-26%20215103.png)
 
 ### Live - https://react-portfolio-template.netlify.app/
 
