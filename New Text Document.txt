@@ -1,0 +1,16 @@
+important files
+1) C:\PROJECTS\Portfolio\react-portfolio-template\components\Footer\index.js
+this has the schedule call button, which i removed
+i have made some changes, not deleted but made into statements
+such as adding the year like © 2024 Siddhant Pathak: Thanks for visiting my page :) 
+
+
+2) C:\PROJECTS\Portfolio\react-portfolio-template\pages\index.js
+
+this has the edit data button, remove before deployment
+also has the service part, which i removed
+
+3) C:\PROJECTS\Portfolio\react-portfolio-template\data\portfolio.json
+this is the data being put to show
+
+4) 
