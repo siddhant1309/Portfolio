@@ -1,6 +1,6 @@
 ![thumbnail](https://github.com/siddhant1309/Portfolio/blob/430462d7ef396e56bb87fabdbe4b9ca14c2a2ff5/public/images/Screenshot%202024-02-26%20215103.png)
 
-### Live - https://react-portfolio-template.netlify.app/
+### Live - [https://react-portfolio-template.netlify.app/](https://siddhantpathakpportfolio.netlify.app/)
 
 ### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
 
