@@ -138,7 +138,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => window.open("https://drive.google.com/file/d/1DVhISARA-cWAphjVCNm-m_0qkEsvLMYe/view?usp=sharing")}
+                onClick={() => window.open("https://drive.google.com/file/d/1NFF_EXcDoI4CPJ3QqHX8ibeLYW2x0Qkt/view?usp=sharing")}
                 classes="first:ml-1"
               >
                 Resume
